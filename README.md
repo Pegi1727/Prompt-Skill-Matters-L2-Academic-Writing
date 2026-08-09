@@ -51,7 +51,7 @@ This repository adheres to the highest standards of **Open Science and Reproduci
 
 ### Included Data & Scripts
 ```text
-.
+
 ├── Figures/                                   # All publication-ready figure assets
 │   ├── ga.png
 │   ├── Figure_1_Distribution_Writing_Stages.png
@@ -69,7 +69,7 @@ This repository adheres to the highest standards of **Open Science and Reproduci
 ├── AI_Co_Regulation_Interactions_with_scores.csv # Processed interaction dataset with PSI metrics
 └── Statistical_Submission_Pack.zip            # Downloadable zipped submission pack
 ---
----
+
 
 ## 📑 How to Cite this Repository
 
