@@ -1,8 +1,9 @@
 # Prompt Skill Matters: Examining GenAI Interaction and Writing Quality in L2 Academic Writing
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21859946.svg)](https://doi.org/10.5281/zenodo.21859946)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
-[![Status: Under Review / Q1 Ready](https://img.shields.io/badge/Status-Q1%20Submission-green.svg)](#)
+
 zenodo.21859946.svg
 Welcome to the official replication and open science repository for the study:  
 **"Prompt Skill Matters: Examining GenAI Interaction and Writing Quality in L2 Academic Writing"**
