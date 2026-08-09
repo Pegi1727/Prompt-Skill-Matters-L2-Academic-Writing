@@ -71,6 +71,7 @@ This repository adheres to the highest standards of **Open Science and Reproduci
 ---
 ## 📜 Citation & Metadata
 
+---
 If you use this dataset, pipeline, or framework in your research, please cite the repository as follows:
 ```bibtex
 @misc{merrikhi2026prompt,
@@ -83,3 +84,4 @@ If you use this dataset, pipeline, or framework in your research, please cite th
   doi          = {10.5281/zenodo.21859946},
   url          = {https://doi.org/10.5281/zenodo.21859946}
 }
+---
