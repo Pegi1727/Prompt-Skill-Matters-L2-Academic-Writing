@@ -1,0 +1,23 @@
+Participant_ID,Disciplinary_Field,Avg_PSI,Final_Quality_Score
+P01,STEM,2.1,2.8
+P02,STEM,2.19,2.86
+P03,STEM,2.27,2.93
+P04,STEM,2.36,3.07
+P05,STEM,2.44,3.11
+P06,STEM,2.53,3.24
+P07,STEM,2.61,3.29
+P08,STEM,2.7,3.44
+P09,STEM,2.79,3.5
+P10,STEM,2.87,3.63
+P11,STEM,2.96,3.68
+P12,Social Science,3.04,3.81
+P13,Social Science,3.13,3.88
+P14,Social Science,3.21,4.01
+P15,Social Science,3.3,4.06
+P16,Social Science,3.39,4.19
+P17,Social Science,3.47,4.26
+P18,Social Science,3.56,4.39
+P19,Social Science,3.64,4.44
+P20,Social Science,3.73,4.57
+P21,Social Science,3.81,4.64
+P22,Social Science,3.9,4.76
