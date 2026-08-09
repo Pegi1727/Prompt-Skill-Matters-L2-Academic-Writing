@@ -1,0 +1,586 @@
+Participant,Field,Interaction,Stage,Prompt,AI_response,PSI,Avg_PSI,Final_Quality_Score,Interpretation
+P01,STEM,1,Pre-writing,Can you check the grammar of this abstract?,Corrected grammar and improved flow.,1,3.2,4.1,High
+P01,STEM,2,First Draft,Drafting the introduction based on the outline.,Draft generated with technical precision.,2,3.2,4.1,High
+P01,STEM,3,Revision 1,Integrating feedback on methodology.,Methodology section refined.,3,3.2,4.1,High
+P01,STEM,4,Revision 2,Addressing reviewer comments on results.,Results expanded and clarified.,3,3.2,4.1,High
+P01,STEM,5,Final Polish,Final proofreading for submission.,"Final polish applied, ready for submission.",4,3.2,4.1,High
+P02,SocialScience,1,Pre-writing,How to paraphrase Bourdieu's concept of habitus?,Provided a academic paraphrase focusing on cultural capital.,1,3.7,4.6,Very High
+P02,SocialScience,2,First Draft,Drafting the literature review section.,Literature review structured with critical analysis.,2,3.7,4.6,Very High
+P02,SocialScience,3,Revision 1,Synthesizing theoretical frameworks.,Synthesis provided with academic rigor.,3,3.7,4.6,Very High
+P02,SocialScience,4,Revision 2,Refining the discussion section.,Discussion depth increased.,3,3.7,4.6,Very High
+P02,SocialScience,5,Final Polish,Checking APA citations and flow.,Citations verified and flow improved.,4,3.7,4.6,Very High
+P03,STEM,1,Pre-writing,Academic interaction prompt,Detailed AI academic response,2,2.4,3.2,Moderate
+P03,STEM,2,First Draft,Academic interaction prompt,Detailed AI academic response,3,2.4,3.2,Moderate
+P03,STEM,3,Revision 1,Academic interaction prompt,Detailed AI academic response,4,2.4,3.2,Moderate
+P03,STEM,4,Revision 2,Academic interaction prompt,Detailed AI academic response,1,2.4,3.2,Moderate
+P03,STEM,5,Final Polish,Academic interaction prompt,Detailed AI academic response,2,2.4,3.2,Moderate
+P04,SocialScience,1,Pre-writing,Academic interaction prompt,Detailed AI academic response,2,3.5,4.3,High
+P04,SocialScience,2,First Draft,Academic interaction prompt,Detailed AI academic response,3,3.5,4.3,High
+P04,SocialScience,3,Revision 1,Academic interaction prompt,Detailed AI academic response,4,3.5,4.3,High
+P04,SocialScience,4,Revision 2,Academic interaction prompt,Detailed AI academic response,1,3.5,4.3,High
+P04,SocialScience,5,Final Polish,Academic interaction prompt,Detailed AI academic response,2,3.5,4.3,High
+P05,STEM,1,Pre-writing,Academic interaction prompt,Detailed AI academic response,2,2.8,3.5,Moderate
+P05,STEM,2,First Draft,Academic interaction prompt,Detailed AI academic response,3,2.8,3.5,Moderate
+P05,STEM,3,Revision 1,Academic interaction prompt,Detailed AI academic response,4,2.8,3.5,Moderate
+P05,STEM,4,Revision 2,Academic interaction prompt,Detailed AI academic response,1,2.8,3.5,Moderate
+P05,STEM,5,Final Polish,Academic interaction prompt,Detailed AI academic response,2,2.8,3.5,Moderate
+P06,SocialScience,1,Pre-writing,Academic interaction prompt,Detailed AI academic response,2,3.9,4.8,Very High
+P06,SocialScience,2,First Draft,Academic interaction prompt,Detailed AI academic response,3,3.9,4.8,Very High
+P06,SocialScience,3,Revision 1,Academic interaction prompt,Detailed AI academic response,4,3.9,4.8,Very High
+P06,SocialScience,4,Revision 2,Academic interaction prompt,Detailed AI academic response,1,3.9,4.8,Very High
+P06,SocialScience,5,Final Polish,Academic interaction prompt,Detailed AI academic response,2,3.9,4.8,Very High
+P07,STEM,1,Pre-writing,Academic interaction prompt,Detailed AI academic response,2,3.1,3.9,High
+P07,STEM,2,First Draft,Academic interaction prompt,Detailed AI academic response,3,3.1,3.9,High
+P07,STEM,3,Revision 1,Academic interaction prompt,Detailed AI academic response,4,3.1,3.9,High
+P07,STEM,4,Revision 2,Academic interaction prompt,Detailed AI academic response,1,3.1,3.9,High
+P07,STEM,5,Final Polish,Academic interaction prompt,Detailed AI academic response,2,3.1,3.9,High
+P08,SocialScience,1,Pre-writing,Academic interaction prompt,Detailed AI academic response,2,2.1,2.8,Low-Moderate
+P08,SocialScience,2,First Draft,Academic interaction prompt,Detailed AI academic response,3,2.1,2.8,Low-Moderate
+P08,SocialScience,3,Revision 1,Academic interaction prompt,Detailed AI academic response,4,2.1,2.8,Low-Moderate
+P08,SocialScience,4,Revision 2,Academic interaction prompt,Detailed AI academic response,1,2.1,2.8,Low-Moderate
+P08,SocialScience,5,Final Polish,Academic interaction prompt,Detailed AI academic response,2,2.1,2.8,Low-Moderate
+P09,STEM,1,Pre-writing,Academic interaction prompt,Detailed AI academic response,2,3.4,4.2,High
+P09,STEM,2,First Draft,Academic interaction prompt,Detailed AI academic response,3,3.4,4.2,High
+P09,STEM,3,Revision 1,Academic interaction prompt,Detailed AI academic response,4,3.4,4.2,High
+P09,STEM,4,Revision 2,Academic interaction prompt,Detailed AI academic response,1,3.4,4.2,High
+P09,STEM,5,Final Polish,Academic interaction prompt,Detailed AI academic response,2,3.4,4.2,High
+P10,SocialScience,1,Pre-writing,Academic interaction prompt,Detailed AI academic response,2,3.6,4.4,High
+P10,SocialScience,2,First Draft,Academic interaction prompt,Detailed AI academic response,3,3.6,4.4,High
+P10,SocialScience,3,Revision 1,Academic interaction prompt,Detailed AI academic response,4,3.6,4.4,High
+P10,SocialScience,4,Revision 2,Academic interaction prompt,Detailed AI academic response,1,3.6,4.4,High
+P10,SocialScience,5,Final Polish,Academic interaction prompt,Detailed AI academic response,2,3.6,4.4,High
+P11,STEM,1,Pre-writing,Academic interaction prompt,Detailed AI academic response,2,2.7,3.4,Moderate
+P11,STEM,2,First Draft,Academic interaction prompt,Detailed AI academic response,3,2.7,3.4,Moderate
+P11,STEM,3,Revision 1,Academic interaction prompt,Detailed AI academic response,4,2.7,3.4,Moderate
+P11,STEM,4,Revision 2,Academic interaction prompt,Detailed AI academic response,1,2.7,3.4,Moderate
+P11,STEM,5,Final Polish,Academic interaction prompt,Detailed AI academic response,2,2.7,3.4,Moderate
+P12,SocialScience,1,Pre-writing,Academic interaction prompt,Detailed AI academic response,2,3.3,4.0,High
+P12,SocialScience,2,First Draft,Academic interaction prompt,Detailed AI academic response,3,3.3,4.0,High
+P12,SocialScience,3,Revision 1,Academic interaction prompt,Detailed AI academic response,4,3.3,4.0,High
+P12,SocialScience,4,Revision 2,Academic interaction prompt,Detailed AI academic response,1,3.3,4.0,High
+P12,SocialScience,5,Final Polish,Academic interaction prompt,Detailed AI academic response,2,3.3,4.0,High
+P13,STEM,1,Pre-writing,Academic interaction prompt,Detailed AI academic response,2,3.8,4.7,Very High
+P13,STEM,2,First Draft,Academic interaction prompt,Detailed AI academic response,3,3.8,4.7,Very High
+P13,STEM,3,Revision 1,Academic interaction prompt,Detailed AI academic response,4,3.8,4.7,Very High
+P13,STEM,4,Revision 2,Academic interaction prompt,Detailed AI academic response,1,3.8,4.7,Very High
+P13,STEM,5,Final Polish,Academic interaction prompt,Detailed AI academic response,2,3.8,4.7,Very High
+P14,SocialScience,1,Pre-writing,Academic interaction prompt,Detailed AI academic response,2,2.9,3.6,Moderate
+P14,SocialScience,2,First Draft,Academic interaction prompt,Detailed AI academic response,3,2.9,3.6,Moderate
+P14,SocialScience,3,Revision 1,Academic interaction prompt,Detailed AI academic response,4,2.9,3.6,Moderate
+P14,SocialScience,4,Revision 2,Academic interaction prompt,Detailed AI academic response,1,2.9,3.6,Moderate
+P14,SocialScience,5,Final Polish,Academic interaction prompt,Detailed AI academic response,2,2.9,3.6,Moderate
+P15,STEM,1,Pre-writing,Academic interaction prompt,Detailed AI academic response,2,3.0,3.8,High
+P15,STEM,2,First Draft,Academic interaction prompt,Detailed AI academic response,3,3.0,3.8,High
+P15,STEM,3,Revision 1,Academic interaction prompt,Detailed AI academic response,4,3.0,3.8,High
+P15,STEM,4,Revision 2,Academic interaction prompt,Detailed AI academic response,1,3.0,3.8,High
+P15,STEM,5,Final Polish,Academic interaction prompt,Detailed AI academic response,2,3.0,3.8,High
+P16,SocialScience,1,Pre-writing,Academic interaction prompt,Detailed AI academic response,2,2.5,3.1,Moderate
+P16,SocialScience,2,First Draft,Academic interaction prompt,Detailed AI academic response,3,2.5,3.1,Moderate
+P16,SocialScience,3,Revision 1,Academic interaction prompt,Detailed AI academic response,4,2.5,3.1,Moderate
+P16,SocialScience,4,Revision 2,Academic interaction prompt,Detailed AI academic response,1,2.5,3.1,Moderate
+P16,SocialScience,5,Final Polish,Academic interaction prompt,Detailed AI academic response,2,2.5,3.1,Moderate
+P17,STEM,1,Pre-writing,Academic interaction prompt,Detailed AI academic response,2,3.7,4.5,Very High
+P17,STEM,2,First Draft,Academic interaction prompt,Detailed AI academic response,3,3.7,4.5,Very High
+P17,STEM,3,Revision 1,Academic interaction prompt,Detailed AI academic response,4,3.7,4.5,Very High
+P17,STEM,4,Revision 2,Academic interaction prompt,Detailed AI academic response,1,3.7,4.5,Very High
+P17,STEM,5,Final Polish,Academic interaction prompt,Detailed AI academic response,2,3.7,4.5,Very High
+P18,SocialScience,1,Pre-writing,Academic interaction prompt,Detailed AI academic response,2,3.2,4.0,High
+P18,SocialScience,2,First Draft,Academic interaction prompt,Detailed AI academic response,3,3.2,4.0,High
+P18,SocialScience,3,Revision 1,Academic interaction prompt,Detailed AI academic response,4,3.2,4.0,High
+P18,SocialScience,4,Revision 2,Academic interaction prompt,Detailed AI academic response,1,3.2,4.0,High
+P18,SocialScience,5,Final Polish,Academic interaction prompt,Detailed AI academic response,2,3.2,4.0,High
+P19,STEM,1,Pre-writing,Academic interaction prompt,Detailed AI academic response,2,2.3,3.0,Moderate
+P19,STEM,2,First Draft,Academic interaction prompt,Detailed AI academic response,3,2.3,3.0,Moderate
+P19,STEM,3,Revision 1,Academic interaction prompt,Detailed AI academic response,4,2.3,3.0,Moderate
+P19,STEM,4,Revision 2,Academic interaction prompt,Detailed AI academic response,1,2.3,3.0,Moderate
+P19,STEM,5,Final Polish,Academic interaction prompt,Detailed AI academic response,2,2.3,3.0,Moderate
+P20,SocialScience,1,Pre-writing,Academic interaction prompt,Detailed AI academic response,2,3.5,4.3,High
+P20,SocialScience,2,First Draft,Academic interaction prompt,Detailed AI academic response,3,3.5,4.3,High
+P20,SocialScience,3,Revision 1,Academic interaction prompt,Detailed AI academic response,4,3.5,4.3,High
+P20,SocialScience,4,Revision 2,Academic interaction prompt,Detailed AI academic response,1,3.5,4.3,High
+P20,SocialScience,5,Final Polish,Academic interaction prompt,Detailed AI academic response,2,3.5,4.3,High
+P21,STEM,1,Pre-writing,Academic interaction prompt,Detailed AI academic response,2,2.6,3.3,Moderate
+P21,STEM,2,First Draft,Academic interaction prompt,Detailed AI academic response,3,2.6,3.3,Moderate
+P21,STEM,3,Revision 1,Academic interaction prompt,Detailed AI academic response,4,2.6,3.3,Moderate
+P21,STEM,4,Revision 2,Academic interaction prompt,Detailed AI academic response,1,2.6,3.3,Moderate
+P21,STEM,5,Final Polish,Academic interaction prompt,Detailed AI academic response,2,2.6,3.3,Moderate
+P22,SocialScience,1,Pre-writing,Academic interaction prompt,Detailed AI academic response,2,3.1,3.7,High
+P22,SocialScience,2,First Draft,Academic interaction prompt,Detailed AI academic response,3,3.1,3.7,High
+P22,SocialScience,3,Revision 1,Academic interaction prompt,Detailed AI academic response,4,3.1,3.7,High
+P22,SocialScience,4,Revision 2,Academic interaction prompt,Detailed AI academic response,1,3.1,3.7,High
+P22,SocialScience,5,Final Polish,Academic interaction prompt,Detailed AI academic response,2,3.1,3.7,High
+P01,STEM,6,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.2,4.1,High
+P02,SocialScience,6,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.7,4.6,Very High
+P03,STEM,6,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.4,3.2,Moderate
+P04,SocialScience,6,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.5,4.3,High
+P05,STEM,6,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.8,3.5,Moderate
+P06,SocialScience,6,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.9,4.8,Very High
+P07,STEM,6,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.1,3.9,High
+P08,SocialScience,6,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.1,2.8,Low-Moderate
+P09,STEM,6,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.4,4.2,High
+P10,SocialScience,6,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.6,4.4,High
+P11,STEM,6,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.7,3.4,Moderate
+P12,SocialScience,6,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.3,4.0,High
+P13,STEM,6,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.8,4.7,Very High
+P14,SocialScience,6,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.9,3.6,Moderate
+P15,STEM,6,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.0,3.8,High
+P16,SocialScience,6,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.5,3.1,Moderate
+P17,STEM,6,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.7,4.5,Very High
+P18,SocialScience,6,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.2,4.0,High
+P19,STEM,6,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.3,3.0,Moderate
+P20,SocialScience,6,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.5,4.3,High
+P21,STEM,6,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.6,3.3,Moderate
+P22,SocialScience,6,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.1,3.7,High
+P01,STEM,7,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.2,4.1,High
+P02,SocialScience,7,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.7,4.6,Very High
+P03,STEM,7,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.4,3.2,Moderate
+P04,SocialScience,7,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.5,4.3,High
+P05,STEM,7,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.8,3.5,Moderate
+P06,SocialScience,7,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.9,4.8,Very High
+P07,STEM,7,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.1,3.9,High
+P08,SocialScience,7,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.1,2.8,Low-Moderate
+P09,STEM,7,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.4,4.2,High
+P10,SocialScience,7,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.6,4.4,High
+P11,STEM,7,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.7,3.4,Moderate
+P12,SocialScience,7,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.3,4.0,High
+P13,STEM,7,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.8,4.7,Very High
+P14,SocialScience,7,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.9,3.6,Moderate
+P15,STEM,7,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.0,3.8,High
+P16,SocialScience,7,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.5,3.1,Moderate
+P17,STEM,7,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.7,4.5,Very High
+P18,SocialScience,7,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.2,4.0,High
+P19,STEM,7,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.3,3.0,Moderate
+P20,SocialScience,7,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.5,4.3,High
+P21,STEM,7,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.6,3.3,Moderate
+P22,SocialScience,7,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.1,3.7,High
+P01,STEM,8,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.2,4.1,High
+P02,SocialScience,8,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.7,4.6,Very High
+P03,STEM,8,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.4,3.2,Moderate
+P04,SocialScience,8,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.5,4.3,High
+P05,STEM,8,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.8,3.5,Moderate
+P06,SocialScience,8,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.9,4.8,Very High
+P07,STEM,8,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.1,3.9,High
+P08,SocialScience,8,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.1,2.8,Low-Moderate
+P09,STEM,8,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.4,4.2,High
+P10,SocialScience,8,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.6,4.4,High
+P11,STEM,8,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.7,3.4,Moderate
+P12,SocialScience,8,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.3,4.0,High
+P13,STEM,8,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.8,4.7,Very High
+P14,SocialScience,8,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.9,3.6,Moderate
+P15,STEM,8,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.0,3.8,High
+P16,SocialScience,8,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.5,3.1,Moderate
+P17,STEM,8,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.7,4.5,Very High
+P18,SocialScience,8,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.2,4.0,High
+P19,STEM,8,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.3,3.0,Moderate
+P20,SocialScience,8,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.5,4.3,High
+P21,STEM,8,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.6,3.3,Moderate
+P22,SocialScience,8,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.1,3.7,High
+P01,STEM,9,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.2,4.1,High
+P02,SocialScience,9,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.7,4.6,Very High
+P03,STEM,9,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.4,3.2,Moderate
+P04,SocialScience,9,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.5,4.3,High
+P05,STEM,9,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.8,3.5,Moderate
+P06,SocialScience,9,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.9,4.8,Very High
+P07,STEM,9,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.1,3.9,High
+P08,SocialScience,9,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.1,2.8,Low-Moderate
+P09,STEM,9,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.4,4.2,High
+P10,SocialScience,9,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.6,4.4,High
+P11,STEM,9,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.7,3.4,Moderate
+P12,SocialScience,9,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.3,4.0,High
+P13,STEM,9,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.8,4.7,Very High
+P14,SocialScience,9,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.9,3.6,Moderate
+P15,STEM,9,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.0,3.8,High
+P16,SocialScience,9,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.5,3.1,Moderate
+P17,STEM,9,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.7,4.5,Very High
+P18,SocialScience,9,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.2,4.0,High
+P19,STEM,9,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.3,3.0,Moderate
+P20,SocialScience,9,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.5,4.3,High
+P21,STEM,9,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.6,3.3,Moderate
+P22,SocialScience,9,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.1,3.7,High
+P01,STEM,10,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.2,4.1,High
+P02,SocialScience,10,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.7,4.6,Very High
+P03,STEM,10,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.4,3.2,Moderate
+P04,SocialScience,10,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.5,4.3,High
+P05,STEM,10,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.8,3.5,Moderate
+P06,SocialScience,10,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.9,4.8,Very High
+P07,STEM,10,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.1,3.9,High
+P08,SocialScience,10,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.1,2.8,Low-Moderate
+P09,STEM,10,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.4,4.2,High
+P10,SocialScience,10,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.6,4.4,High
+P11,STEM,10,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.7,3.4,Moderate
+P12,SocialScience,10,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.3,4.0,High
+P13,STEM,10,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.8,4.7,Very High
+P14,SocialScience,10,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.9,3.6,Moderate
+P15,STEM,10,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.0,3.8,High
+P16,SocialScience,10,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.5,3.1,Moderate
+P17,STEM,10,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.7,4.5,Very High
+P18,SocialScience,10,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.2,4.0,High
+P19,STEM,10,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.3,3.0,Moderate
+P20,SocialScience,10,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.5,4.3,High
+P21,STEM,10,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.6,3.3,Moderate
+P22,SocialScience,10,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.1,3.7,High
+P01,STEM,11,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.2,4.1,High
+P02,SocialScience,11,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.7,4.6,Very High
+P03,STEM,11,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.4,3.2,Moderate
+P04,SocialScience,11,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.5,4.3,High
+P05,STEM,11,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.8,3.5,Moderate
+P06,SocialScience,11,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.9,4.8,Very High
+P07,STEM,11,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.1,3.9,High
+P08,SocialScience,11,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.1,2.8,Low-Moderate
+P09,STEM,11,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.4,4.2,High
+P10,SocialScience,11,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.6,4.4,High
+P11,STEM,11,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.7,3.4,Moderate
+P12,SocialScience,11,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.3,4.0,High
+P13,STEM,11,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.8,4.7,Very High
+P14,SocialScience,11,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.9,3.6,Moderate
+P15,STEM,11,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.0,3.8,High
+P16,SocialScience,11,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.5,3.1,Moderate
+P17,STEM,11,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.7,4.5,Very High
+P18,SocialScience,11,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.2,4.0,High
+P19,STEM,11,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.3,3.0,Moderate
+P20,SocialScience,11,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.5,4.3,High
+P21,STEM,11,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.6,3.3,Moderate
+P22,SocialScience,11,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.1,3.7,High
+P01,STEM,12,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.2,4.1,High
+P02,SocialScience,12,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.7,4.6,Very High
+P03,STEM,12,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.4,3.2,Moderate
+P04,SocialScience,12,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.5,4.3,High
+P05,STEM,12,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.8,3.5,Moderate
+P06,SocialScience,12,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.9,4.8,Very High
+P07,STEM,12,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.1,3.9,High
+P08,SocialScience,12,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.1,2.8,Low-Moderate
+P09,STEM,12,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.4,4.2,High
+P10,SocialScience,12,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.6,4.4,High
+P11,STEM,12,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.7,3.4,Moderate
+P12,SocialScience,12,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.3,4.0,High
+P13,STEM,12,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.8,4.7,Very High
+P14,SocialScience,12,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.9,3.6,Moderate
+P15,STEM,12,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.0,3.8,High
+P16,SocialScience,12,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.5,3.1,Moderate
+P17,STEM,12,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.7,4.5,Very High
+P18,SocialScience,12,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.2,4.0,High
+P19,STEM,12,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.3,3.0,Moderate
+P20,SocialScience,12,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.5,4.3,High
+P21,STEM,12,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.6,3.3,Moderate
+P22,SocialScience,12,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.1,3.7,High
+P01,STEM,13,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.2,4.1,High
+P02,SocialScience,13,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.7,4.6,Very High
+P03,STEM,13,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.4,3.2,Moderate
+P04,SocialScience,13,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.5,4.3,High
+P05,STEM,13,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.8,3.5,Moderate
+P06,SocialScience,13,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.9,4.8,Very High
+P07,STEM,13,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.1,3.9,High
+P08,SocialScience,13,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.1,2.8,Low-Moderate
+P09,STEM,13,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.4,4.2,High
+P10,SocialScience,13,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.6,4.4,High
+P11,STEM,13,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.7,3.4,Moderate
+P12,SocialScience,13,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.3,4.0,High
+P13,STEM,13,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.8,4.7,Very High
+P14,SocialScience,13,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.9,3.6,Moderate
+P15,STEM,13,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.0,3.8,High
+P16,SocialScience,13,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.5,3.1,Moderate
+P17,STEM,13,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.7,4.5,Very High
+P18,SocialScience,13,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.2,4.0,High
+P19,STEM,13,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.3,3.0,Moderate
+P20,SocialScience,13,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.5,4.3,High
+P21,STEM,13,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.6,3.3,Moderate
+P22,SocialScience,13,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.1,3.7,High
+P01,STEM,14,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.2,4.1,High
+P02,SocialScience,14,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.7,4.6,Very High
+P03,STEM,14,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.4,3.2,Moderate
+P04,SocialScience,14,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.5,4.3,High
+P05,STEM,14,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.8,3.5,Moderate
+P06,SocialScience,14,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.9,4.8,Very High
+P07,STEM,14,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.1,3.9,High
+P08,SocialScience,14,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.1,2.8,Low-Moderate
+P09,STEM,14,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.4,4.2,High
+P10,SocialScience,14,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.6,4.4,High
+P11,STEM,14,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.7,3.4,Moderate
+P12,SocialScience,14,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.3,4.0,High
+P13,STEM,14,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.8,4.7,Very High
+P14,SocialScience,14,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.9,3.6,Moderate
+P15,STEM,14,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.0,3.8,High
+P16,SocialScience,14,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.5,3.1,Moderate
+P17,STEM,14,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.7,4.5,Very High
+P18,SocialScience,14,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.2,4.0,High
+P19,STEM,14,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.3,3.0,Moderate
+P20,SocialScience,14,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.5,4.3,High
+P21,STEM,14,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.6,3.3,Moderate
+P22,SocialScience,14,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.1,3.7,High
+P01,STEM,15,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.2,4.1,High
+P02,SocialScience,15,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.7,4.6,Very High
+P03,STEM,15,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.4,3.2,Moderate
+P04,SocialScience,15,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.5,4.3,High
+P05,STEM,15,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.8,3.5,Moderate
+P06,SocialScience,15,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.9,4.8,Very High
+P07,STEM,15,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.1,3.9,High
+P08,SocialScience,15,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.1,2.8,Low-Moderate
+P09,STEM,15,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.4,4.2,High
+P10,SocialScience,15,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.6,4.4,High
+P11,STEM,15,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.7,3.4,Moderate
+P12,SocialScience,15,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.3,4.0,High
+P13,STEM,15,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.8,4.7,Very High
+P14,SocialScience,15,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.9,3.6,Moderate
+P15,STEM,15,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.0,3.8,High
+P16,SocialScience,15,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.5,3.1,Moderate
+P17,STEM,15,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.7,4.5,Very High
+P18,SocialScience,15,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.2,4.0,High
+P19,STEM,15,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.3,3.0,Moderate
+P20,SocialScience,15,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.5,4.3,High
+P21,STEM,15,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.6,3.3,Moderate
+P22,SocialScience,15,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.1,3.7,High
+P01,STEM,16,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.2,4.1,High
+P02,SocialScience,16,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.7,4.6,Very High
+P03,STEM,16,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.4,3.2,Moderate
+P04,SocialScience,16,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.5,4.3,High
+P05,STEM,16,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.8,3.5,Moderate
+P06,SocialScience,16,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.9,4.8,Very High
+P07,STEM,16,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.1,3.9,High
+P08,SocialScience,16,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.1,2.8,Low-Moderate
+P09,STEM,16,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.4,4.2,High
+P10,SocialScience,16,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.6,4.4,High
+P11,STEM,16,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.7,3.4,Moderate
+P12,SocialScience,16,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.3,4.0,High
+P13,STEM,16,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.8,4.7,Very High
+P14,SocialScience,16,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.9,3.6,Moderate
+P15,STEM,16,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.0,3.8,High
+P16,SocialScience,16,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.5,3.1,Moderate
+P17,STEM,16,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.7,4.5,Very High
+P18,SocialScience,16,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.2,4.0,High
+P19,STEM,16,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.3,3.0,Moderate
+P20,SocialScience,16,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.5,4.3,High
+P21,STEM,16,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.6,3.3,Moderate
+P22,SocialScience,16,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.1,3.7,High
+P01,STEM,17,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.2,4.1,High
+P02,SocialScience,17,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.7,4.6,Very High
+P03,STEM,17,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.4,3.2,Moderate
+P04,SocialScience,17,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.5,4.3,High
+P05,STEM,17,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.8,3.5,Moderate
+P06,SocialScience,17,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.9,4.8,Very High
+P07,STEM,17,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.1,3.9,High
+P08,SocialScience,17,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.1,2.8,Low-Moderate
+P09,STEM,17,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.4,4.2,High
+P10,SocialScience,17,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.6,4.4,High
+P11,STEM,17,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.7,3.4,Moderate
+P12,SocialScience,17,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.3,4.0,High
+P13,STEM,17,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.8,4.7,Very High
+P14,SocialScience,17,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.9,3.6,Moderate
+P15,STEM,17,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.0,3.8,High
+P16,SocialScience,17,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.5,3.1,Moderate
+P17,STEM,17,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.7,4.5,Very High
+P18,SocialScience,17,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.2,4.0,High
+P19,STEM,17,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.3,3.0,Moderate
+P20,SocialScience,17,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.5,4.3,High
+P21,STEM,17,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.6,3.3,Moderate
+P22,SocialScience,17,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.1,3.7,High
+P01,STEM,18,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.2,4.1,High
+P02,SocialScience,18,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.7,4.6,Very High
+P03,STEM,18,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.4,3.2,Moderate
+P04,SocialScience,18,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.5,4.3,High
+P05,STEM,18,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.8,3.5,Moderate
+P06,SocialScience,18,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.9,4.8,Very High
+P07,STEM,18,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.1,3.9,High
+P08,SocialScience,18,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.1,2.8,Low-Moderate
+P09,STEM,18,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.4,4.2,High
+P10,SocialScience,18,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.6,4.4,High
+P11,STEM,18,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.7,3.4,Moderate
+P12,SocialScience,18,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.3,4.0,High
+P13,STEM,18,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.8,4.7,Very High
+P14,SocialScience,18,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.9,3.6,Moderate
+P15,STEM,18,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.0,3.8,High
+P16,SocialScience,18,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.5,3.1,Moderate
+P17,STEM,18,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.7,4.5,Very High
+P18,SocialScience,18,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.2,4.0,High
+P19,STEM,18,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.3,3.0,Moderate
+P20,SocialScience,18,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.5,4.3,High
+P21,STEM,18,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.6,3.3,Moderate
+P22,SocialScience,18,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.1,3.7,High
+P01,STEM,19,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.2,4.1,High
+P02,SocialScience,19,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.7,4.6,Very High
+P03,STEM,19,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.4,3.2,Moderate
+P04,SocialScience,19,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.5,4.3,High
+P05,STEM,19,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.8,3.5,Moderate
+P06,SocialScience,19,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.9,4.8,Very High
+P07,STEM,19,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.1,3.9,High
+P08,SocialScience,19,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.1,2.8,Low-Moderate
+P09,STEM,19,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.4,4.2,High
+P10,SocialScience,19,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.6,4.4,High
+P11,STEM,19,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.7,3.4,Moderate
+P12,SocialScience,19,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.3,4.0,High
+P13,STEM,19,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.8,4.7,Very High
+P14,SocialScience,19,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.9,3.6,Moderate
+P15,STEM,19,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.0,3.8,High
+P16,SocialScience,19,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.5,3.1,Moderate
+P17,STEM,19,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.7,4.5,Very High
+P18,SocialScience,19,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.2,4.0,High
+P19,STEM,19,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.3,3.0,Moderate
+P20,SocialScience,19,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.5,4.3,High
+P21,STEM,19,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.6,3.3,Moderate
+P22,SocialScience,19,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.1,3.7,High
+P01,STEM,20,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.2,4.1,High
+P02,SocialScience,20,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.7,4.6,Very High
+P03,STEM,20,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.4,3.2,Moderate
+P04,SocialScience,20,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.5,4.3,High
+P05,STEM,20,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.8,3.5,Moderate
+P06,SocialScience,20,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.9,4.8,Very High
+P07,STEM,20,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.1,3.9,High
+P08,SocialScience,20,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.1,2.8,Low-Moderate
+P09,STEM,20,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.4,4.2,High
+P10,SocialScience,20,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.6,4.4,High
+P11,STEM,20,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.7,3.4,Moderate
+P12,SocialScience,20,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.3,4.0,High
+P13,STEM,20,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.8,4.7,Very High
+P14,SocialScience,20,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.9,3.6,Moderate
+P15,STEM,20,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.0,3.8,High
+P16,SocialScience,20,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.5,3.1,Moderate
+P17,STEM,20,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.7,4.5,Very High
+P18,SocialScience,20,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.2,4.0,High
+P19,STEM,20,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.3,3.0,Moderate
+P20,SocialScience,20,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.5,4.3,High
+P21,STEM,20,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.6,3.3,Moderate
+P22,SocialScience,20,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.1,3.7,High
+P01,STEM,21,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.2,4.1,High
+P02,SocialScience,21,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.7,4.6,Very High
+P03,STEM,21,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.4,3.2,Moderate
+P04,SocialScience,21,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.5,4.3,High
+P05,STEM,21,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.8,3.5,Moderate
+P06,SocialScience,21,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.9,4.8,Very High
+P07,STEM,21,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.1,3.9,High
+P08,SocialScience,21,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.1,2.8,Low-Moderate
+P09,STEM,21,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.4,4.2,High
+P10,SocialScience,21,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.6,4.4,High
+P11,STEM,21,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.7,3.4,Moderate
+P12,SocialScience,21,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.3,4.0,High
+P13,STEM,21,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.8,4.7,Very High
+P14,SocialScience,21,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.9,3.6,Moderate
+P15,STEM,21,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.0,3.8,High
+P16,SocialScience,21,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.5,3.1,Moderate
+P17,STEM,21,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.7,4.5,Very High
+P18,SocialScience,21,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.2,4.0,High
+P19,STEM,21,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.3,3.0,Moderate
+P20,SocialScience,21,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.5,4.3,High
+P21,STEM,21,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.6,3.3,Moderate
+P22,SocialScience,21,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.1,3.7,High
+P01,STEM,22,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.2,4.1,High
+P02,SocialScience,22,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.7,4.6,Very High
+P03,STEM,22,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.4,3.2,Moderate
+P04,SocialScience,22,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.5,4.3,High
+P05,STEM,22,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.8,3.5,Moderate
+P06,SocialScience,22,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.9,4.8,Very High
+P07,STEM,22,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.1,3.9,High
+P08,SocialScience,22,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.1,2.8,Low-Moderate
+P09,STEM,22,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.4,4.2,High
+P10,SocialScience,22,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.6,4.4,High
+P11,STEM,22,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.7,3.4,Moderate
+P12,SocialScience,22,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.3,4.0,High
+P13,STEM,22,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.8,4.7,Very High
+P14,SocialScience,22,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.9,3.6,Moderate
+P15,STEM,22,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.0,3.8,High
+P16,SocialScience,22,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.5,3.1,Moderate
+P17,STEM,22,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.7,4.5,Very High
+P18,SocialScience,22,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.2,4.0,High
+P19,STEM,22,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.3,3.0,Moderate
+P20,SocialScience,22,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.5,4.3,High
+P21,STEM,22,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.6,3.3,Moderate
+P22,SocialScience,22,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.1,3.7,High
+P01,STEM,23,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.2,4.1,High
+P02,SocialScience,23,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.7,4.6,Very High
+P03,STEM,23,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.4,3.2,Moderate
+P04,SocialScience,23,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.5,4.3,High
+P05,STEM,23,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.8,3.5,Moderate
+P06,SocialScience,23,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.9,4.8,Very High
+P07,STEM,23,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.1,3.9,High
+P08,SocialScience,23,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.1,2.8,Low-Moderate
+P09,STEM,23,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.4,4.2,High
+P10,SocialScience,23,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.6,4.4,High
+P11,STEM,23,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.7,3.4,Moderate
+P12,SocialScience,23,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.3,4.0,High
+P13,STEM,23,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.8,4.7,Very High
+P14,SocialScience,23,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.9,3.6,Moderate
+P15,STEM,23,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.0,3.8,High
+P16,SocialScience,23,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.5,3.1,Moderate
+P17,STEM,23,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.7,4.5,Very High
+P18,SocialScience,23,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.2,4.0,High
+P19,STEM,23,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.3,3.0,Moderate
+P20,SocialScience,23,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.5,4.3,High
+P21,STEM,23,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.6,3.3,Moderate
+P22,SocialScience,23,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.1,3.7,High
+P01,STEM,24,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.2,4.1,High
+P02,SocialScience,24,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.7,4.6,Very High
+P03,STEM,24,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.4,3.2,Moderate
+P04,SocialScience,24,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.5,4.3,High
+P05,STEM,24,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.8,3.5,Moderate
+P06,SocialScience,24,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.9,4.8,Very High
+P07,STEM,24,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.1,3.9,High
+P08,SocialScience,24,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.1,2.8,Low-Moderate
+P09,STEM,24,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.4,4.2,High
+P10,SocialScience,24,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.6,4.4,High
+P11,STEM,24,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.7,3.4,Moderate
+P12,SocialScience,24,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.3,4.0,High
+P13,STEM,24,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.8,4.7,Very High
+P14,SocialScience,24,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.9,3.6,Moderate
+P15,STEM,24,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.0,3.8,High
+P16,SocialScience,24,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.5,3.1,Moderate
+P17,STEM,24,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.7,4.5,Very High
+P18,SocialScience,24,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.2,4.0,High
+P19,STEM,24,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.3,3.0,Moderate
+P20,SocialScience,24,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.5,4.3,High
+P21,STEM,24,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.6,3.3,Moderate
+P22,SocialScience,24,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.1,3.7,High
+P01,STEM,25,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.2,4.1,High
+P02,SocialScience,25,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.7,4.6,Very High
+P03,STEM,25,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.4,3.2,Moderate
+P04,SocialScience,25,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.5,4.3,High
+P05,STEM,25,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.8,3.5,Moderate
+P06,SocialScience,25,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.9,4.8,Very High
+P07,STEM,25,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.1,3.9,High
+P08,SocialScience,25,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.1,2.8,Low-Moderate
+P09,STEM,25,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.4,4.2,High
+P10,SocialScience,25,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.6,4.4,High
+P11,STEM,25,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.7,3.4,Moderate
+P12,SocialScience,25,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.3,4.0,High
+P13,STEM,25,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.8,4.7,Very High
+P14,SocialScience,25,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.9,3.6,Moderate
+P15,STEM,25,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.0,3.8,High
+P16,SocialScience,25,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.5,3.1,Moderate
+P17,STEM,25,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.7,4.5,Very High
+P18,SocialScience,25,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.2,4.0,High
+P19,STEM,25,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.3,3.0,Moderate
+P20,SocialScience,25,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.5,4.3,High
+P21,STEM,25,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.6,3.3,Moderate
+P22,SocialScience,25,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.1,3.7,High
+P01,STEM,26,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.2,4.1,High
+P02,SocialScience,26,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.7,4.6,Very High
+P03,STEM,26,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.4,3.2,Moderate
+P04,SocialScience,26,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.5,4.3,High
+P05,STEM,26,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.8,3.5,Moderate
+P06,SocialScience,26,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.9,4.8,Very High
+P07,STEM,26,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.1,3.9,High
+P08,SocialScience,26,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.1,2.8,Low-Moderate
+P09,STEM,26,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.4,4.2,High
+P10,SocialScience,26,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.6,4.4,High
+P11,STEM,26,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.7,3.4,Moderate
+P12,SocialScience,26,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.3,4.0,High
+P13,STEM,26,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.8,4.7,Very High
+P14,SocialScience,26,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.9,3.6,Moderate
+P15,STEM,26,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.0,3.8,High
+P16,SocialScience,26,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.5,3.1,Moderate
+P17,STEM,26,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.7,4.5,Very High
+P18,SocialScience,26,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.2,4.0,High
+P19,STEM,26,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.3,3.0,Moderate
+P20,SocialScience,26,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.5,4.3,High
+P21,STEM,26,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.6,3.3,Moderate
+P22,SocialScience,26,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.1,3.7,High
+P01,STEM,27,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.2,4.1,High
+P02,SocialScience,27,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.7,4.6,Very High
+P03,STEM,27,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.4,3.2,Moderate
+P04,SocialScience,27,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.5,4.3,High
+P05,STEM,27,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.8,3.5,Moderate
+P06,SocialScience,27,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.9,4.8,Very High
+P07,STEM,27,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.1,3.9,High
+P08,SocialScience,27,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.1,2.8,Low-Moderate
+P09,STEM,27,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.4,4.2,High
+P10,SocialScience,27,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.6,4.4,High
+P11,STEM,27,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,2.7,3.4,Moderate
+P12,SocialScience,27,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.3,4.0,High
+P13,STEM,27,Follow-up/Refinement,Clarification request,Detailed technical feedback,3,3.8,4.7,Very High
