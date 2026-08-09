@@ -70,15 +70,12 @@ This repository adheres to the highest standards of **Open Science and Reproduci
 └── Statistical_Submission_Pack.zip            # Downloadable zipped submission pack
 ---
 
-
-## 📑 How to Cite this Repository
-
+📑 How to Cite this Repository
 If you utilize the datasets, the PSI framework, or the analysis pipeline provided here in your research, please cite it using the following DOI and BibTeX entry:
 
-**DOI:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21859946.svg)](https://doi.org/10.5281/zenodo.21859946)
+DOI: https://doi.org/10.5281/zenodo.21859946
 
-### BibTeX
-```bibtex
+BibTeX
 @misc{merrikhi2026prompt,
   author       = {Merrikhi, Pegah},
   title        = {Prompt Skill Matters: Examining GenAI Interaction and Writing Quality in L2 Academic Writing},
