@@ -68,3 +68,18 @@ This repository adheres to the highest standards of **Open Science and Reproduci
 ├── AI_Co_Regulation_Interactions.csv          # Raw interaction event logs
 ├── AI_Co_Regulation_Interactions_with_scores.csv # Processed interaction dataset with PSI metrics
 └── Statistical_Submission_Pack.zip            # Downloadable zipped submission pack
+---
+## 📜 Citation & Metadata
+
+If you use this dataset, pipeline, or framework in your research, please cite the repository as follows:
+```bibtex
+@misc{merrikhi2026prompt,
+  author       = {Merrikhi, Pegah},
+  title        = {Prompt Skill Matters: Examining GenAI Interaction and Writing Quality in L2 Academic Writing},
+  month        = aug,
+  year         = 2026,
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  doi          = {10.5281/zenodo.21859946},
+  url          = {https://doi.org/10.5281/zenodo.21859946}
+}
