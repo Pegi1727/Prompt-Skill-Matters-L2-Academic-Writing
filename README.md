@@ -69,6 +69,26 @@ This repository adheres to the highest standards of **Open Science and Reproduci
 ├── AI_Co_Regulation_Interactions_with_scores.csv # Processed interaction dataset with PSI metrics
 └── Statistical_Submission_Pack.zip            # Downloadable zipped submission pack
 ---
-Persistent Identifier (DOI): 10.5281/zenodo.21859946
+---
+
+## 📑 How to Cite this Repository
+
+If you utilize the datasets, the PSI framework, or the analysis pipeline provided here in your research, please cite it using the following DOI and BibTeX entry:
+
+**DOI:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21859946.svg)](https://doi.org/10.5281/zenodo.21859946)
+
+### BibTeX
+```bibtex
+@misc{merrikhi2026prompt,
+  author       = {Merrikhi, Pegah},
+  title        = {Prompt Skill Matters: Examining GenAI Interaction and Writing Quality in L2 Academic Writing},
+  month        = aug,
+  year         = 2026,
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  doi          = {10.5281/zenodo.21859946},
+  url          = {https://doi.org/10.5281/zenodo.21859946}
+}
+
 }
 ---
