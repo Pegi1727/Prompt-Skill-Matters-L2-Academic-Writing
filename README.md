@@ -84,7 +84,32 @@ All figures are rendered in high-resolution (300 DPI) and located in the [`Figur
 - **Zenodo Repository Archive:** [DOI: 10.5281/zenodo.21859946](https://doi.org/10.5281/zenodo.21859946)
 
 ---
-
+.
+├── Figures/
+│   ├── 1.png
+│   ├── 2.png
+│   ├── 3.png
+│   ├── 4.png
+│   ├── 5.png
+│   ├── correlation_heatmap.png
+│   ├── graphical-abstract.png
+│   ├── psi_quality_boxplots.png
+│   └── psi_quality_scatter.png
+├── 01_statistical_analysis.R
+├── 02_publication_figures.R
+├── run_all.R
+├── analysis_plots.py
+├── raw_rater_scoring.csv
+├── processed_interaction_data.csv
+├── Descriptive_Statistics.xlsx
+├── Statistical_Tests_and_Results.xlsx
+├── summary_statistics.md
+├── statistical_test_results.md
+├── statistical_analysis_report.md
+├── requirements.txt
+├── LICENSE
+└── README.md
+---
 ## 📜 Citation
 
 If you use this dataset, coding framework, or reproduction code in your research, please cite it as follows:
@@ -101,6 +126,7 @@ GenAI-Mediated L2 Academic Writing}},
   doi          = {10.5281/zenodo.21859946},
   url          = {https://doi.org/10.5281/zenodo.21859946}
 ---
+
 APA Citation Format:
 
 Merrikhi, P. (2026). The Prompt Skill Index (PSI) Dataset: Interaction Logs, Coding Framework, and Statistical Pipeline for GenAI-Mediated L2 Academic Writing (Version v0.1.PSI) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.21859946
